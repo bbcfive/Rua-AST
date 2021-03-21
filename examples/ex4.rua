@@ -1,0 +1,3 @@
+class C {
+    f({x}) {return ([x]) => 1}
+  }
