@@ -6,7 +6,7 @@ This is a super tiny compiler for language Rua.
 - [Ohm-js](https://github.com/harc/ohm)
 
 ## Useful Tools
-- [AST](https://esprima.org/demo/parse.html#)
+- [esprima parser AST](https://esprima.org/demo/parse.html#)
 - [ohmlang](https://ohmlang.github.io/editor/)
   
 ## Available Scripts
